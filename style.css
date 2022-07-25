@@ -1,0 +1,76 @@
+/*STYLE CSS*/
+
+body{
+    background: linear-gradient(220.55deg, #B7DCFF 0%, #FFA4F6 100%);
+    font-family: serif;
+    font-size: 15px;
+    font-weight: lighter;
+    text-align: center;
+    display: flex;
+    
+   
+}
+
+.container{
+    width: 700px;
+    margin: 0 auto;
+   
+
+
+}
+
+h1{
+    color:rgb(136, 121, 176);
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+h2{
+    color:#377D71;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+h3{
+    color: rgb(141, 131, 170);
+    font-size: 25px;
+    font-weight: lighter;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.img-circle{
+    border-radius: 50%;
+    width: 40%;
+   
+    
+}
+.card-white{
+    background-color: rgb(251, 197, 197);
+    padding: 40px;
+    box-shadow: 0px 0px 30px rgba(0,0,0,0.5);
+    border-radius: 10px;
+    margin: 20px 0px;
+    text-align: center;
+   
+}
+
+.list-inline{
+    list-style: none;
+    padding-left: 0px;
+
+}
+    .list-inline li{
+        display: inline;
+        padding: 10px;
+    }
+
+        .list-inline i{
+            font-size: 50px;
+            color: rgb(230,230,230)
+        }
+
+            .list-inline i:hover{
+                color: black;
+
+            }
